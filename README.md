@@ -31,4 +31,6 @@ This project is fully deployed on AWS Free Tier using a secure and scalable arch
 <img width="1919" height="1015" alt="Screenshot 2025-07-18 113634" src="https://github.com/user-attachments/assets/b7a2e445-f1eb-4895-9d12-4275221dd290" />
 <img width="1904" height="1033" alt="Screenshot 2025-07-18 115154" src="https://github.com/user-attachments/assets/3cdfb078-e813-439e-bac3-d5aef9b0abd2" />
 <img width="1692" height="923" alt="Screenshot 2025-07-18 133706" src="https://github.com/user-attachments/assets/e5f55301-30b8-4561-8a8c-31c81a713c43" />
+<img width="1911" height="909" alt="Screenshot 2025-07-18 121801" src="https://github.com/user-attachments/assets/48007beb-b342-41fd-bf3f-02ed58318500" />
+
 
