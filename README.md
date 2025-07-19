@@ -2,7 +2,7 @@
 
 This project is fully deployed on AWS Free Tier using a secure and scalable architecture. Below is a summary of services used and setup steps:
 
-### 🔧 Services Used
+###  Services Used
 
 | Service         | Purpose |
 |------------------|---------|
